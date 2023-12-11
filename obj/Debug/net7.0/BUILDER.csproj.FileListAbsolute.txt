@@ -1,0 +1,14 @@
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\bin\Debug\net7.0\BUILDER.exe
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\bin\Debug\net7.0\BUILDER.deps.json
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\bin\Debug\net7.0\BUILDER.runtimeconfig.json
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\bin\Debug\net7.0\BUILDER.dll
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\bin\Debug\net7.0\BUILDER.pdb
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\BUILDER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\BUILDER.AssemblyInfoInputs.cache
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\BUILDER.AssemblyInfo.cs
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\BUILDER.csproj.CoreCompileInputs.cache
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\BUILDER.dll
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\refint\BUILDER.dll
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\BUILDER.pdb
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\BUILDER.genruntimeconfig.cache
+C:\Users\karil\Downloads\Documents\Documents\VSC\BUILDER\obj\Debug\net7.0\ref\BUILDER.dll
